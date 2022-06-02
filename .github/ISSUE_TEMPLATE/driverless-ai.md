@@ -1,9 +1,9 @@
 ---
-name: "\U0001F4C3 Documentation"
-about: Create a documentation issue or request to help us improve H2O Hydrogen Torch
-title: "[DOCS]"
+name: "Driverless AI"
+about: Create a documentation issue or request to help us improve Driverless AI
+title: "[DAI]"
 labels: area/documentation 
-assignees: '5675sp'
+assignees: 'zainhaq-h2o'
 ---
 
 ### 📃 Documentation Issue/request
