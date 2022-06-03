@@ -6,10 +6,22 @@ labels: area/documentation, dai
 assignees: 'zainhaq-h2o'
 ---
 
-### 📃 Documentation Issue/request
+### Documentation issue
 
-<!-- A clear and concise description of what the documentation issue/request is -->
+<!-- Please provide a clear and concise description of the documentation issue/request -->
 
-### Documentation Version
 
-<!-- Documentation version (for a current or future version)?  -->
+### Additional context
+
+<!-- Please add any other context about the issue/request here (e.g., images) -->
+
+
+
+### Page details 
+
+**Note**: do not edit this section. It is required for the issue to be resolved.
+
+- Title:
+- Version: 
+
+
