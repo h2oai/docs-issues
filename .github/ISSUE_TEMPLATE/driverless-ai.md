@@ -10,12 +10,9 @@ assignees: 'zainhaq-h2o'
 
 <!-- Please provide a clear and concise description of the documentation issue/request -->
 
-
 ### Additional context
 
 <!-- Please add any other context about the issue/request here (e.g., images) -->
-
-
 
 ### Page details 
 
@@ -23,5 +20,6 @@ assignees: 'zainhaq-h2o'
 
 - Title:
 - Version: 
+
 
 
