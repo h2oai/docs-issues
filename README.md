@@ -1,7 +1,7 @@
 # H2O documentation issues 
 
 
-Please submit a documentation issue for the following engines, models, and applications:
+See a problem with our documentation? If yes, please submit a documentation issue for the following engines, models, and applications: 
 
 **Engines**
 
