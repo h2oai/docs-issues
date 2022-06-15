@@ -23,5 +23,5 @@ See a problem with our documentation? If yes, please submit a documentation issu
 - [H2O AutoDoc](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-autodoc&template=h2o-autodoc.md&title=%5BH2O-AD%5D) 
 - [H2O Model Validation](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-model-validation&template=h2o-model-validation.md&title=%5BH2O-MV%5D)
 - [H2O Model Analyzer](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-model-analyzer&template=h2o-model-analyzer.md&title=%5BH2O-MA%5D) 
-- AI Unit Consumption 
+- [AI Unit Consumption](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+ai-unit-consumption&template=ai-unit-consumption.md&title=%5BAIUC%5D)
 
