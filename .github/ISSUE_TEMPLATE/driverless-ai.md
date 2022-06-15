@@ -2,11 +2,12 @@
 name: "Driverless AI"
 about: Create a documentation issue/request to improve Driverless AI
 title: "[DAI]"
-labels: area/documentation, dai
 assignees: 'zainhaq-h2o'
+labels: area/documentation, dai
 ---
 
-### Documentation issue
+
+### Documentation issue/request
 
 <!-- Please provide a clear and concise description of the documentation issue/request -->
 
@@ -14,12 +15,8 @@ assignees: 'zainhaq-h2o'
 
 <!-- Please add any other context about the issue/request here (e.g., images) -->
 
-### Page details 
+### Page(s) details 
 
-**Note**: do not edit this section. It is required for the issue to be resolved.
-
-- Page title:
-- DAI version: 
-
-
+- Page(s) title:
+- Driverless AI version: 
 
