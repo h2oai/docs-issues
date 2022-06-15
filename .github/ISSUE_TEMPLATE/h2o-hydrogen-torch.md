@@ -6,7 +6,7 @@ labels: area/documentation, h2o-hydrogen-torch
 assignees: 'sp5675'
 ---
 
-### Documentation issue
+### Documentation issue/request
 
 <!-- Please provide a clear and concise description of the documentation issue/request -->
 
@@ -15,8 +15,6 @@ assignees: 'sp5675'
 <!-- Please add any other context about the issue/request here (e.g., images) -->
 
 ### Page details 
-
-**Note**: do not edit this section. It is required for the issue to be resolved.
 
 - Page title:
 - H2O Hydrogen Torch version: 
