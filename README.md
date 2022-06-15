@@ -5,11 +5,11 @@ See a problem with our documentation? If yes, please submit a documentation issu
 
 **Engines**
 
-- [Driverless AI](.github/ISSUE_TEMPLATE/driverless-ai.md)
+- [Driverless AI](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=zainhaq-h2o&labels=area%2Fdocumentation%2C+driverless-ai&template=driverless-ai.md&title=%5BDAI%5D)
 - H2O-3
 - Enterprise Steam 
-- [H2O Hydrogen Torch](.github/ISSUE_TEMPLATE/h2o-hydrogen-torch.md)
-- [H2O Document AI](.github/ISSUE_TEMPLATE/h2o-document-ai)
+- [H2O Hydrogen Torch](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-hydrogen-torch&template=h2o-hydrogen-torch.md&title=%5BH2O-HT%5D)
+- [H2O Document AI](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-document-ai&template=h2o-document-ai.md&title=%5BH2O-DA%5D)
 
 
 **Models**
@@ -19,9 +19,9 @@ See a problem with our documentation? If yes, please submit a documentation issu
 
 **Applications** 
 
-- [H2O AutoInsights](.github/ISSUE_TEMPLATE/h2o-autoinsights.md)
-- [H2O AutoDoc](.github/ISSUE_TEMPLATE/h2o-autodoc.md) 
-- [H2O Model Validation](.github/ISSUE_TEMPLATE/h2o-model-validation.md)
-- [H2O Model Analyzer](.github/ISSUE_TEMPLATE/h2o-model-analyzer.md) 
+- [H2O AutoInsights](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-autoinsights&template=h2o-autoinsights.md&title=%5BH2O-A%5D)
+- [H2O AutoDoc](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-autodoc&template=h2o-autodoc.md&title=%5BH2O-AD%5D) 
+- [H2O Model Validation](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-model-validation&template=h2o-model-validation.md&title=%5BH2O-MV%5D)
+- [H2O Model Analyzer](https://github.com/h2oai/docs-issues-requests/issues/new?assignees=5675sp&labels=area%2Fdocumentation%2C+h2o-model-analyzer&template=h2o-model-analyzer.md&title=%5BH2O-MA%5D) 
 - AI Unit Consumption 
 
