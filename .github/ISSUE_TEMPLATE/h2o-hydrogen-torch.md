@@ -15,7 +15,7 @@ labels: area/documentation, h2o-hydrogen-torch
 
 <!-- Please add any other context about the issue/request here (e.g., images) -->
 
-### Page details 
+### Page(s) details 
 
-- Page title:
+- Page(s) title:
 - H2O Hydrogen Torch version: 
