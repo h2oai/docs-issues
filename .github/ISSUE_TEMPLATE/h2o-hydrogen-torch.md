@@ -2,9 +2,10 @@
 name: "H2O Hydrogen Torch"
 about: Create a documentation issue/request to improve H2O Hydrogen Torch
 title: "[H2O-HT]"
-labels: area/documentation, h2o-hydrogen-torch
-assignees: 'sp5675'
+assignees: '5675sp'
+labels: area/documentation, h2o-hydrogen-torch 
 ---
+
 
 ### Documentation issue/request
 
