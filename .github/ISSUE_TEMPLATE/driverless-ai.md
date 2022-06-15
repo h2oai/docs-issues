@@ -3,7 +3,7 @@ name: "Driverless AI"
 about: Create a documentation issue/request to improve Driverless AI
 title: "[DAI]"
 assignees: 'zainhaq-h2o'
-labels: area/documentation, dai
+labels: area/documentation, driverless-ai
 ---
 
 
