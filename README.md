@@ -5,7 +5,7 @@ See a problem with our documentation? If yes, please submit a documentation issu
 
 **Engines**
 
-- [Driverless AI](github/ISSUE_TEMPLATE)
+- [Driverless AI](.github/ISSUE_TEMPLATE)
 - H2O-3
 - Enterprise Steam 
 - H2O Hydrogen Torch 
