@@ -5,11 +5,11 @@ See a problem with our documentation? If yes, please submit a documentation issu
 
 **Engines**
 
-- [Driverless AI](.github/ISSUE_TEMPLATE)
+- [Driverless AI](.github/ISSUE_TEMPLATE/driverless-ai.md)
 - H2O-3
 - Enterprise Steam 
-- H2O Hydrogen Torch 
-- H2O Document AI
+- [H2O Hydrogen Torch](.github/ISSUE_TEMPLATE/h2o-hydrogen-torch.md)
+- [H2O Document AI](.github/ISSUE_TEMPLATE/h2o-document-ai)
 
 
 **Models**
@@ -19,9 +19,9 @@ See a problem with our documentation? If yes, please submit a documentation issu
 
 **Applications** 
 
-- H2O AutoInsights 
-- H2O AutoDoc 
-- H2O Model Validation 
-- H2O Model Analyzer 
+- [H2O AutoInsights](.github/ISSUE_TEMPLATE/h2o-autoinsights.md)
+- [H2O AutoDoc](.github/ISSUE_TEMPLATE/h2o-autodoc.md) 
+- [H2O Model Validation](.github/ISSUE_TEMPLATE/h2o-model-validation.md)
+- [H2O Model Analyzer](.github/ISSUE_TEMPLATE/h2o-model-analyzer.md) 
 - AI Unit Consumption 
 
