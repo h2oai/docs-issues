@@ -1,7 +1,7 @@
-# H2O documentation issues 
+# H2O documentation issues/request 
 
 
-See a problem with our documentation? If yes, please submit a documentation issue for the following engines, models, and applications in the H2O AI Cloud: 
+See a problem with our documentation? If yes, please submit a documentation issue/request for the following engines, models, and applications in the H2O AI Cloud: 
 
 **Engines**
 
