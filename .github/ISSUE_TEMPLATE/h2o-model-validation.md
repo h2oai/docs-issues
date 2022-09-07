@@ -1,9 +1,8 @@
 ---
-name: "H2O Model Validation"
-about: Create a documentation issue/request to improve H2O Model Validation
-title: "[H2O-MV]"
-assignees: '5675sp'
-labels: area/documentation, h2o-model-validation 
+name: "Issue/request fo an application"
+about: Create a documentation issue/request for an application in HAIC
+title: "[HAIC-APP]"
+labels: area/documentation, haic-app
 ---
 
 
@@ -17,5 +16,6 @@ labels: area/documentation, h2o-model-validation
 
 ### Page(s) details 
 
+- Application name: 
+- Application version:
 - Page(s) title:
-- H2O Model Validation version: 
