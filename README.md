@@ -1,4 +1,4 @@
-# H2O AI Cloud (HAIC) documentation issues
+# H2O AI Cloud (HAIC) documentation issues/requests 
 
 
 See a problem with our documentation? If yes, please submit a documentation issue/request for the following engines, models, and applications in the H2O AI Cloud: 
