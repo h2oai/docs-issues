@@ -6,7 +6,6 @@ See a problem with our documentation? If yes, please submit a documentation issu
 **Engines**
 
 - [Driverless AI]()
-- H2O-3
 - Enterprise Steam 
 - [H2O Hydrogen Torch]()
 - [H2O Document AI]()
