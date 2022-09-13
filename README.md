@@ -26,4 +26,5 @@ See a problem with our documentation? If yes, please submit a documentation issu
 - [H2O Model Analyzer]() 
 - [AI Unit Consumption]()
 - [H2O Label Genie]()
+- [H2O Model Security]()
 
