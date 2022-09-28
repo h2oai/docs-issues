@@ -1,5 +1,5 @@
 ---
-name: "Issue/request fo an engine"
+name: "Issue/request for an engine"
 about: Create a documentation issue/request for an engine in HAIC
 title: "[HAIC-ENGINE]"
 labels: area/documentation, haic-engine
