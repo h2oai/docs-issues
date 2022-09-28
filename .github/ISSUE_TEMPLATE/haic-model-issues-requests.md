@@ -18,4 +18,4 @@ labels: area/documentation, haic-model
 
 - Model name: 
 - Model version:
-- Page(s) title:
+- Page title:
