@@ -18,4 +18,4 @@ labels: area/documentation, haic-app
 
 - Application name: 
 - Application version:
-- Page(s) title:
+- Page title:
