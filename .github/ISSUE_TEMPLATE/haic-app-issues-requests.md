@@ -1,5 +1,5 @@
 ---
-name: "Issue/request fo an application"
+name: "Issue/request for an application"
 about: Create a documentation issue/request for an application in HAIC
 title: "[HAIC-APP]"
 labels: area/documentation, haic-app
