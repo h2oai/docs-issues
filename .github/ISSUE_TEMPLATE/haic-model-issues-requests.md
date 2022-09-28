@@ -1,5 +1,5 @@
 ---
-name: "Issue/request fo a model"
+name: "Issue/request for a model"
 about: Create a documentation issue/request for a model in HAIC
 title: "[HAIC-MODEL]"
 labels: area/documentation, haic-model
