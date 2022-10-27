@@ -5,10 +5,10 @@ See a problem with our documentation? If yes, please submit a documentation issu
 
 **Engines**
 
-- [Driverless AI]()
+- Driverless AI
 - Enterprise Steam 
-- [H2O Hydrogen Torch]()
-- [H2O Document AI]()
+- H2O Hydrogen Torch
+- H2O Document AI
 
 
 **Models**
@@ -20,11 +20,11 @@ See a problem with our documentation? If yes, please submit a documentation issu
 
 *For example*:
 
-- [H2O AutoInsights]()
-- [H2O AutoDoc]() 
-- [H2O Model Validation]()
-- [H2O Model Analyzer]() 
-- [AI Unit Consumption]()
-- [H2O Label Genie]()
-- [H2O Model Security]()
+- H2O AutoInsights
+- H2O AutoDoc
+- H2O Model Validation 
+- H2O Model Analyzer
+- AI Unit Consumption
+- H2O Label Genie
+- H2O Model Security
 
